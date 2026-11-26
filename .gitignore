@@ -1,0 +1,12 @@
+# Local Obsidian workspace state and installed plugin files
+/.obsidian/workspace*.json
+/.obsidian/plugins/
+/.obsidian/cache/
+
+# Obsidian trash
+/.trash/
+
+# Operating system metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
