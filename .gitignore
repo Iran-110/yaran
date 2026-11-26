@@ -1,7 +1,12 @@
-# Local Obsidian workspace state and installed plugin files
+# Local Obsidian state and preferences
 /.obsidian/workspace*.json
-/.obsidian/plugins/
+/.obsidian/appearance.json
+/.obsidian/graph.json
+/.obsidian/bookmarks.json
 /.obsidian/cache/
+
+# Locally installed community plugins and their settings
+/.obsidian/plugins/
 
 # Obsidian trash
 /.trash/
